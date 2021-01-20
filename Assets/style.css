@@ -1,3 +1,7 @@
+
+/* font-family: 'Cinzel', serif; 
+font-family: 'Zilla Slab', serif; */
+
 body {
     background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/05/wallpaper.wiki-Vintage-Picture-Free-Download-PIC-WPE00308.jpg");
     background-size: cover;
@@ -9,6 +13,35 @@ footer{
     width: 100%;
     text-align: center;
     position: fixed;
+}
+
+nav {
+    border-radius: 5px;
+}
+
+section {
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.big {
+    font-family: 'Cinzel', serif; 
+}
+
+.center {
+    text-align: center;
+}
+
+.gray {
+    background-color:rgb(224, 223, 223);
+}
+
+.row {
+    padding: 20px;
+}
+
+.smol {
+    font-family: 'Zilla Slab', serif; 
 }
 
 .portimg {
