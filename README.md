@@ -1,5 +1,15 @@
-# DeThrelkeld.github.io
+# Responsive_Portfolio
 
-A simple webpage about being a webpage
+This is a bootstrap portfolio project, using three pages and responsive to changes in the viewport size.
+It contains:
 
-https://dethrelkeld.github.io/
+1. A navbar
+1. A responsive layout
+1. Responsive images
+
+The project is primarily composed of bootstrap and html with a little css and no media queries. 
+
+
+
+
+https://dethrelkeld.github.io/Responsive_Portfolio/
