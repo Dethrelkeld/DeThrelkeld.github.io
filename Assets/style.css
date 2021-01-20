@@ -13,6 +13,7 @@ footer{
     width: 100%;
     text-align: center;
     position: fixed;
+    color: white;
 }
 
 nav {
@@ -36,14 +37,6 @@ section {
     background-color:rgb(224, 223, 223);
 }
 
-.row {
-    padding: 20px;
-}
-
-.smol {
-    font-family: 'Zilla Slab', serif; 
-}
-
 .portimg {
     margin: 2em;
     height: 200px;
@@ -53,6 +46,24 @@ section {
 
 .profile-pic {
     float: left;
+}
+
+.row {
+    padding: 20px;
+}
+
+.smol {
+    font-family: 'Zilla Slab', serif; 
+}
+
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
 }
 
 .title {
