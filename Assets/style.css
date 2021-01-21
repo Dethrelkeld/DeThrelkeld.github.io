@@ -62,7 +62,7 @@ section {
 .thumbnail:hover {
     position:relative;
     top:-25px;
-    left:-35px;
+    left:0px;
     width:500px;
     height:auto;
     display:block;
