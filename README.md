@@ -1,4 +1,4 @@
-# Responsive_Portfolio
+# Responsive Portfolio
 
 This is an evolving portfolio project displaying other projects.
 
