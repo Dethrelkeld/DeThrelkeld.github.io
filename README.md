@@ -3,7 +3,7 @@
 https://dethrelkeld.github.io/
 
 ---
-![Photo of website home page](/assets/images/Portfolio.JPG "Dave Portfolio")
+![Photo of website home page](/Assets/Images/Portfolio.JPG "Dave Portfolio")
 
 ---
 
